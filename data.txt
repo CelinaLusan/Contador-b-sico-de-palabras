@@ -1,0 +1,6 @@
+Esta independencia lleva a que un cambio en los
+tratamientos no imponga un nuevo diseño de la
+base de datos. Por aparte si se agrega nueva
+información, se elimina o se hacen cambios a los
+datos estos no deben obligar a alterar los
+programas
